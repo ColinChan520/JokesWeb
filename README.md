@@ -1,4 +1,4 @@
-# 😂 JokesWeb
+# JokesWeb
 
 **JokesWeb** is a fun and interactive Q&A-style joke website where users can browse existing jokes and create their own.
 
@@ -6,12 +6,12 @@
 
 ## 🚀 Features
 
-- 📝 View a list of jokes  
-- ➕ Add new jokes  
-- ✏️ Edit existing jokes  
-- ❌ Delete jokes  
-- 🔍 Search jokes by keywords  
-- 🔐 User registration / login / logout  
+- View a list of jokes  
+- Add new jokes  
+- Edit existing jokes  
+- Delete jokes  
+- Search jokes by keywords  
+- User registration / login / logout  
 
 ---
 
@@ -37,20 +37,6 @@
 - IIS Express (for local testing)  
 
 ---
-
-## 📁 Project Structure
-
-JokesWeb/
-├── Controllers/       # MVC controllers
-├── Models/            # EF models and view models
-├── Views/             # Razor pages
-│   ├── Jokes/         # Joke CRUD pages
-│   ├── Home/          # Home and privacy pages
-│   └── Shared/        # Layout and partial views
-├── Data/              # EF DbContext and migrations
-├── wwwroot/           # Static files
-├── appsettings.json   # Configuration file
-└── Program.cs         # Application entry point
 
 ## 🧪 How to Run Locally
 
@@ -86,6 +72,6 @@ JokesWeb/
 
 ## 🌐 Deployment
 
-- ✅ Local development using Visual Studio & IIS Express  
-- 🚀 Planned deployment to **Amazon Web Services (AWS)**
+- Local development using Visual Studio & IIS Express  
+- Planned deployment to **Amazon Web Services (AWS)**
 
